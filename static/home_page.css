@@ -1,0 +1,45 @@
+div.header{
+  position: absolute;
+  right: 150px;
+}
+
+h1{
+  text-align: center;
+}
+
+div.video {
+  text-align: center;
+}
+
+body {
+ background-color: #d9cdca;
+}
+
+div.datauthor {
+  background-color: #fff;
+  padding: 5px;
+}
+
+.conteneur {
+  overflow:hidden;
+  width:33%;
+  float:left;
+  display:inline;
+}
+
+
+.footer {
+  font-size:10px;
+}
+
+div.clear{
+  clear:left;
+}
+
+div.title {
+  font-size:30px;
+}
+
+div.justify{
+  text-align:justify;
+}

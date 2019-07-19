@@ -1,0 +1,39 @@
+{
+  "1": {
+    "name": "Jean",
+    "color": "Blue"
+  },
+  "2": {
+    "name": "Jean",
+    "color": "Grey"
+  },
+  "3": {
+    "name": "Jean",
+    "color": "Black"
+  },
+  "4": {
+    "name": "Jean mum",
+    "color": "Blue"
+  },
+  "5": {
+    "name": "Jean mum",
+    "color": "Grey"
+  },
+  "6": {
+    "name": "Jean mum",
+    "color": "Black"
+  },
+  "7": {
+    "name": "Jean fit",
+    "color": "Blue"
+  },
+  "8": {
+    "name": "Pant",
+    "color": "Blue"
+  },
+
+  "9": {
+    "name": "Skinny",
+    "color": "Blue"
+  }
+}

@@ -1,0 +1,22 @@
+{{define "main"}}
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Document hugo</title>
+</head>
+<body>
+
+  <h3>Here are the news of the day.</h3>
+  {{.Content}}
+  {{ range .Pages }}
+
+    <ul>
+      <li><a href = "{{.URL}}">{{.Title}}</a> write by {{.Params.Author}} et the URL is {{.URL}}</li>
+    </ul>
+
+  {{end}}
+
+</body>
+</html>
+  {{end}}

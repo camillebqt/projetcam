@@ -1,0 +1,12 @@
+
+    <!-- orders content according to the "publishdate" field in front matter -->
+
+{{with .Site.GetPage "/div2"}}
+    {{ range .Pages.ByPublishDate }}
+          <div class="conteneur">
+            <time>{{ .PublishDate.Format "Mon, Jan 2, 2006" }}</time>
+            <h1><a href="{{ .Permalink }}" style="color:red; font-size:25px;">{{ .Title }}</a></h1> {{truncate 90 .Content}}
+          </div>
+
+    {{ end }}
+{{end}}

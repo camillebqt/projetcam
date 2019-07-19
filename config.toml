@@ -1,0 +1,7 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	mood = "moods"

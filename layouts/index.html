@@ -1,0 +1,46 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Document hugo</title>
+</head>
+<body>
+  {{ partial "header" .}}
+
+  <hr>
+  <hr>
+  <br>
+  <h2 style="color: {{ .Params.color}};">{{.Title}} </h2>
+    <div class= "datauthor">
+  Date : {{.Date}} <br>
+  Author : {{.Params.Author}} <br>
+    </div>
+</h4>
+
+  <h3>See our tutorials on youtube :</h3>
+  {{.Content}}
+    <div class="video">
+  <a href="https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3"><button type="button">Here is the link of the video</button><a/>
+  <br>
+  <br>
+  Please share it!
+  <br>
+  <br>
+  <img src="/atom.gif" alt="Italian Trulli">
+    </div>
+  <br>
+  <br>
+
+
+  {{ partial "by-page-publish-date" .}}
+
+<div class="clear">
+</div>
+
+  {{ partial "footer" .}}
+
+
+
+
+
+</body>
+</html>
