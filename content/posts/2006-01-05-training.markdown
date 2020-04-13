@@ -1,0 +1,16 @@
+---
+author: supercobra thatbytes
+comments: false
+date: 2006-01-05 19:51:00+00:00
+layout: post
+link: https://www.mojohelpdesk.com/blog/2006/01/training/
+slug: training
+title: Training
+wordpress_id: 317
+categories:
+- Product Updates
+---
+
+By popular demand we released our 1-hour telephone training. It’s quick, easy and cost effective. The nice part is that we can do the training on the customer portal, thus not only we train our users, but we also do some real work. 
+
+Learn more on our [Training page.](http://www.metadot.com/index.pl?iid=15078)

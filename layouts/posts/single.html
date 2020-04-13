@@ -1,0 +1,21 @@
+
+{{define "main"}}
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="/home_page.css" />
+  <meta charset="UTF-8">
+  <title>Document hugo</title>
+</head>
+<body>
+  <div class="title">
+    <p>{{.Title}}</p>
+  </div>
+  Categories: {{ .Params.categories }}
+  <div class="clear">
+  </div>
+  <div class="justify">
+    {{.Content}} 
+  </div>
+</body>
+</html>
+{{end}}

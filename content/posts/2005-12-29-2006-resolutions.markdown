@@ -1,0 +1,26 @@
+---
+author: supercobra thatbytes
+comments: false
+date: 2005-12-29 19:50:00+00:00
+layout: post
+link: https://www.mojohelpdesk.com/blog/2005/12/2006-resolutions/
+slug: 2006-resolutions
+title: 2006 Resolutions
+wordpress_id: 318
+categories:
+- Product Tips
+---
+
+Finally we succumbed to the blog virus. Blog is mode? Certainly. But we also see that as a great way to keep our user base in touch with us.
+
+So, for our first blog article I am going to publish the company resolutions along with mine.
+
+Publishing them online put some pressure on us to make them happen. Once we brag about things it is difficult just to retract them. So here we go:
+
+  1. stay hungry, stay foolish (adopted from Steve Jobs’ advise to Stanford graduates
+  2. start a company blog :)
+  3. release great and useful online tools and services
+  4. micro manage pixels: make the above services enjoyable to use
+  5. try to become an important player in online services
+  6. stop using the laptop at night in the bed  
+

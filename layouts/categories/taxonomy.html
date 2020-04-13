@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="container">
+    <div class="section">
+        <a href="/posts/">Back to categories</a>
+        <div class="content">
+            <h1>Category: {{ .Title }}</h1>
+            {{ range .Pages }}
+            <ul>
+                <li>   
+                <a href = "{{.URL}}">{{.Title}}</a> write by {{.Params.Author}} et the URL is {{.URL}} 
+                - Categories: {{ range .Params.categories }}{{ . }}{{ end }}
+                </li>
+            </ul>
+
+        {{end}}
+        </div>
+    </div>
+</div>
+{{ end }}
